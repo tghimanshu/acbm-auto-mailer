@@ -1,0 +1,9 @@
+{
+    "email":"[your email]",
+    "password":"[your password]",
+    "subject":"E- Certificate for attending Indian and global Symposium 2020 by ACBM GMA",
+    "body":"body.txt",
+    "data":"students.xlsx",
+    "folder":"certificates/",
+    "files":[{"type":"images", "extension":".jpg"}]
+}
